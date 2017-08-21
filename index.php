@@ -14,7 +14,7 @@ $courses = $json_data['courses']['completed'];
   </head>
   <body>
     <header>
-      <h1>Steve Altomare's Code School Badges Earned</h1>
+      <h1>Steve Altomare's Code School Badges</h1>
     </header>
     <div class="container">
       <div class="grid">
